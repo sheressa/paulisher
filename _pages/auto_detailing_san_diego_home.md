@@ -1,6 +1,6 @@
 ---
 ID: 7
-post_title: Home
+post_title: ""
 author: admin
 post_date: 2017-04-19 07:57:21
 post_excerpt: ""
