@@ -1,12 +1,11 @@
 ---
 ID: 963
-post_title: detailsandiego.x10host.com
+post_title: Home
 author: admin
 post_date: 2017-04-26 09:18:28
 post_excerpt: ""
 layout: page
-permalink: >
-  http://cardetailingsandiego.com/detailsandiego-x10host-com/
+permalink: http://cardetailingsandiego.com/
 published: true
 yst_is_cornerstone:
   - ""
