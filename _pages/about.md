@@ -16,10 +16,8 @@ business_press_hide_title:
 business_press_hide_footer_widgets:
   - "0"
 ---
-<font color="white"><OUR DISTINCTION>
- 
-
-WE DON’T JUST WASH YOUR CAR – WE GIVE YOUR CARE A FULL MAKEOVER!  
+<font color="white"><<strong>OUR DISTINCTION</strong>>
+<em> We don't just wash your car- We give it a full makeover! </em>
 
 Delivering service backed by over 30 years experience
 Experience, dedication, quality assurance and reliability
