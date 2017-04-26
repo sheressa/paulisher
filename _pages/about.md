@@ -16,3 +16,16 @@ business_press_hide_title:
 business_press_hide_footer_widgets:
   - "0"
 ---
+<font color="white"><OUR DISTINCTION>
+ 
+
+WE DON’T JUST WASH YOUR CAR – WE GIVE YOUR CARE A FULL MAKEOVER!  
+
+Delivering service backed by over 30 years experience
+Experience, dedication, quality assurance and reliability
+Servicing some of the most expensive and exotic cars imaginable
+First-class treatment to any and every car and for the right price
+Providing top notch detailing at your location.
+Offering one of a kind convenience and flexibility
+Environmentally friendly mobile auto detailing services
+Friendly service to unleash the full potential of beauty and luster of your vehicle.></font> <a href="http://cardetailingsandiego.com/our_distinction/">Learn more</a>
