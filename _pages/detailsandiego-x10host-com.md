@@ -25,7 +25,7 @@ business_press_hide_footer_widgets:
 <div class="col sqs-col-12 span-12">
 <div id="block-271b3ed36b21e90e63d6" class="sqs-block html-block sqs-block-html" data-block-type="2">
 <div class="sqs-block-content">
-<h1 class="text-align-center">SAN DIEGO'S BEST AUTO DETAILING</h1>
+<h1 class="text-align-center"><font color="white"><SAN DIEGO'S BEST AUTO DETAILING></font></h1>
 <h2 class="text-align-center">PROUDLY SERVING SAN DIEGO CAR AND TRUCK DETAILING SINCE 1980</h2>
 See how you can benefit from my 30+ years of experience detailing cars in San Diego. From selecting a car detailing service that’s just right for you and your vehicle, to assisting you with paint protection, door dings, paint scuff, scratches, rock chips or any mobile auto detailing services that effects your cars appearance. At apple Polishing Systems in San Diego, auto detailing is our passion!
 
