@@ -1,2 +1,6 @@
-language: PHP
-
+{
+  "language": "php",
+  "group": "stable",
+  "dist": "precise",
+  "os": "linux"
+}
