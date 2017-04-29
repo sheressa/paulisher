@@ -6,7 +6,7 @@ post_date: 2017-04-23 07:35:19
 post_excerpt: ""
 layout: page
 permalink: >
-  http://detailsandiego.x10host.com/restoration/
+  http://cardetailingsandiego.com/restoration/
 published: true
 yst_is_cornerstone:
   - ""
