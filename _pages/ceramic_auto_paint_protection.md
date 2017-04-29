@@ -5,7 +5,8 @@ author: admin
 post_date: 2017-04-29 06:39:01
 post_excerpt: ""
 layout: page
-permalink: http://cardetailingsandiego.com/ceramic/
+permalink: >
+  http://cardetailingsandiego.com/ceramic_auto_paint_protection/
 published: true
 yst_is_cornerstone:
   - ""
