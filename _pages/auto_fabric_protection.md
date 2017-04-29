@@ -6,7 +6,7 @@ post_date: 2017-04-29 06:38:23
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cardetailingsandiego.com/fabric-protection/
+  http://cardetailingsandiego.com/auto_fabric_protection/
 published: true
 yst_is_cornerstone:
   - ""
