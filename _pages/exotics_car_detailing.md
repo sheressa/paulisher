@@ -6,7 +6,7 @@ post_date: 2017-04-23 03:32:18
 post_excerpt: ""
 layout: page
 permalink: >
-  http://detailsandiego.x10host.com/exotics_car_detailing/
+  http://cardetailingsandiego.com/exotics_car_detailing/
 published: true
 yst_is_cornerstone:
   - ""
