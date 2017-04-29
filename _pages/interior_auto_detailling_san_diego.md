@@ -6,7 +6,7 @@ post_date: 2017-04-23 03:32:17
 post_excerpt: ""
 layout: page
 permalink: >
-  http://detailsandiego.x10host.com/interior_detailling/
+  http://cardetailingsandiego.com/interior_auto_detailling_san_diego/
 published: true
 yst_is_cornerstone:
   - ""
