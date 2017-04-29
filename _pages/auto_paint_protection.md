@@ -6,7 +6,7 @@ post_date: 2017-04-29 06:37:26
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cardetailingsandiego.com/paint-protection/
+  http://cardetailingsandiego.com/auto_paint_protection/
 published: true
 yst_is_cornerstone:
   - ""
