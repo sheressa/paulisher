@@ -10,4 +10,11 @@ permalink: >
 published: true
 yst_is_cornerstone:
   - ""
+business_press_hide_titlebar:
+  - "0"
+business_press_hide_title:
+  - "0"
+business_press_hide_footer_widgets:
+  - "0"
 ---
+ [contact-form][contact-field label='Name' type='name' required='1'/][contact-field label='Email' type='email' required='1'/][contact-field label='Website' type='url'/][contact-field label='Comment' type='textarea' required='1'/][/contact-form]
