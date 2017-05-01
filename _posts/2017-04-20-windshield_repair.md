@@ -6,7 +6,7 @@ post_date: 2017-04-20 05:00:13
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cardetailingsandiego.com/window-windshield-repair/
+  http://cardetailingsandiego.com/windshield_repair/
 published: true
 yst_is_cornerstone:
   - ""
