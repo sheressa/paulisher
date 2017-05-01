@@ -18,7 +18,7 @@ business_press_hide_footer_widgets:
   - "0"
 ---
 <h2 class="service_gallery_name"><span style="color: #00ff00;"><strong>What will a windshield repair look like when it’s done, will I still be able to see it?</strong></span></h2>
-<span style="color: #00ff00;">We can usually clear up the appearance of the damaged area from 70% to 90% and give you a 100% guarantee that the crack or chip doesn’t spread. Every windshield crack is different. Determining factors are how long it’s been there, how much damage is present and if there is contamination in the damaged area. Usually, the pit area of the repair will look like a small water spot so it will not be completely invisible.</span>
+<span style="color: #00ff00;">We can usually clear up the appearance of the damaged area from 70% to 90% and give you a 100% guarantee that the crack or chip doesn’t spread. Every windshield repair is different. Determining factors are how long it’s been there, how much damage is present and if there is contamination in the damaged area. Usually, the pit area of the repair will look like a small water spot so it will not be completely invisible.</span>
 
 <span style="color: #00ff00;"><strong>If you can’t repair my windshield can you have it replaced?</strong></span>
 
