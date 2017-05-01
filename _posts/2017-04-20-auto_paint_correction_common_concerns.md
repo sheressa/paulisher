@@ -19,7 +19,7 @@ business_press_hide_footer_widgets:
 ---
 <h1><span style="color: #339966;">Most Common Concerns With Customers</span></h1>
 <h2><span style="color: #339966;">Auto Paint Correction</span></h2>
-There are three common concerns that my customers have with their car’s finish and they are fallout, micro scratches, and water spots. If these concerns are not corrected they will likely shorten the life of your paint as well as your enthusiasm for your car.
+There are three common concerns on paint correction that my customers have with their car’s finish and they are fallout, micro scratches, and water spots. If these concerns are not corrected they will likely shorten the life of your paint as well as your enthusiasm for your car.
 
 1) In the last ten years, you have probably heard the term fallout or industrial fallout used by a detailer. You will know if there is fallout on your finish by inspecting it after a thorough washing. When your car is clean, lightly rub the back of your hand across the hood of your car. If it feels a little rough you probably have fallout on your paint. If you look closely you will see a bunch of tiny specks and they won’t come off with a regular washing or even if you wax your car. If the fallout has been there a while, the specks will begin to rust and can eventually pit your clear coat. If you have fallout, the best way to remedy the problem is a professional clay bar. This clay process will remove the fallout and most everything else without removing any of your original paint or clear coat. A car that is professionally detailed with a clay bar will feel silky smooth and look better longer.
 
