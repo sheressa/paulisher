@@ -6,7 +6,7 @@ post_date: 2017-04-20 05:00:13
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cardetailingsandiego.com/windshield_repair/
+  http://cardetailingsandiego.com/windshield_repair_san_diego/
 published: true
 yst_is_cornerstone:
   - ""
@@ -31,3 +31,7 @@ business_press_hide_footer_widgets:
 <span style="color: #00ff00;"><strong>How long will it take to replace my windshield and how soon can I drive my car after it‘s been replaced?</strong></span>
 
 <span style="color: #00ff00;">It usually takes about an hour to replace your windshield, and about another hour for the adhesive to cure to a point where it is safe to drive your vehicle. In total, you should plan on letting your vehicle sit for two to two and a half hours.</span>
+
+<span style="color: #ff6600;"><a style="color: #ff6600;" href="http://cardetailingsandiego.com/auto_glass_windshield_repair/">Learn More by visiting Apple Polishing System</a></span>
+
+&nbsp;
