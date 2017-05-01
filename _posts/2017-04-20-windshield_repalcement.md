@@ -23,7 +23,7 @@ business_press_hide_footer_widgets:
 Your car windshield does more than protect you from rain, wind and the occasional flying rock. It’s part of an engineered system performing critical functions in the design of your vehicle. Windshield replacement can make the difference when it comes to your safety.
 
 Your windshield helps to keep you safe as part of the airbag system. It provides roof-crushing resistance and prevents passenger ejection.
-<h2><strong>Getting a windshield replacement in your car can be as simple as making one phone call… </strong></h2>
+<h3><span style="color: #339966;"><strong>Getting a windshield replacement in your car can be as simple as making one phone call… </strong></span></h3>
 Just be sure the auto glass company you choose follows federal safety standards for auto glass installation. Remember a cheep windshield replacement might cut corners that could compromise your safety. Our approved auto glass installers follow the strictest safety standards and guarantee that your windshield is safe and properly installed. Using the latest installation techniques, proper adhesives and adhering to “Safe Drive-away” Times.
 
 Greendex, how does the US rank?
