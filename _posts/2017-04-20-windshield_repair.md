@@ -1,6 +1,6 @@
 ---
 ID: 539
-post_title: 'Window &#038; Windshield Repair'
+post_title: Windshield Repair
 author: admin
 post_date: 2017-04-20 05:00:13
 post_excerpt: ""
