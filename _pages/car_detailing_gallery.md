@@ -17,4 +17,4 @@ business_press_hide_title:
 business_press_hide_footer_widgets:
   - "0"
 ---
-[gallery columns="5" ids="1049,1047,1046,1045,1044,1043,1042,1037,1036,1035,1034,1033,1032,1031,1030,1026,1025,1024,1023,1022,1021,1020,1019,1018,1017,1016,1015,1014,1013,306,304,300,301,299,297,296,295,294,293,291,274,273,272,271,270,269,263,264,267,268,262,261,258,259,257,256,255,254,253,251,250,249"]
+[ngg_images source="galleries" display_type="photocrati-nextgen_basic_thumbnails" override_thumbnail_settings="0" thumbnail_width="240" thumbnail_height="160" thumbnail_crop="1" images_per_page="30" number_of_columns="0" ajax_pagination="0" show_all_in_lightbox="0" use_imagebrowser_effect="0" show_slideshow_link="1" slideshow_link_text="[Show slideshow]" order_by="sortorder" order_direction="ASC" returns="included" maximum_entity_count="500"]
