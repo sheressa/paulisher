@@ -6,7 +6,7 @@ post_date: 2017-04-29 06:38:23
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cardetailingsandiego.com/auto_paint_surface_protection/fabric/
+  http://cardetailingsandiego.com/restoration/fabric/
 published: true
 business_press_hide_titlebar:
   - "0"
