@@ -11,7 +11,7 @@ published: true
 business_press_hide_titlebar:
   - "0"
 business_press_hide_title:
-  - "0"
+  - "1"
 business_press_hide_footer_widgets:
   - "0"
 panels_data:
