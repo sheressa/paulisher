@@ -6,10 +6,8 @@ post_date: 2017-04-22 06:05:10
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cardetailingsandiego.com/contact_apple_polishing_systems/
+  http://cardetailingsandiego.com/get_in_touch/
 published: true
-yst_is_cornerstone:
-  - ""
 business_press_hide_titlebar:
   - "0"
 business_press_hide_title:
