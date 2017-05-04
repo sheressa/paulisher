@@ -6,7 +6,7 @@ post_date: 2017-04-22 06:05:10
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cardetailingsandiego.com/why_-choose_-us/
+  http://cardetailingsandiego.com/why_choose_us/
 published: true
 business_press_hide_titlebar:
   - "0"
