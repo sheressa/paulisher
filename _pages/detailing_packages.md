@@ -6,7 +6,7 @@ post_date: 2017-04-23 03:32:17
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cardetailingsandiego.com/san_diego_auto_detailing_services/packages/
+  http://cardetailingsandiego.com/san_diego_auto_detailing_services/detailing_packages/
 published: true
 business_press_hide_titlebar:
   - "0"
