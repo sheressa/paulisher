@@ -6,10 +6,8 @@ post_date: 2017-04-23 07:35:19
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cardetailingsandiego.com/restoration/
+  http://cardetailingsandiego.com/additional_services/restoration/
 published: true
-yst_is_cornerstone:
-  - ""
 business_press_hide_titlebar:
   - "0"
 business_press_hide_title:
