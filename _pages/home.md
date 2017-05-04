@@ -7,8 +7,6 @@ post_excerpt: ""
 layout: page
 permalink: http://cardetailingsandiego.com/
 published: true
-yst_is_cornerstone:
-  - ""
 business_press_hide_titlebar:
   - "0"
 business_press_hide_title:
