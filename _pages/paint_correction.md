@@ -6,7 +6,7 @@ post_date: 2017-04-29 06:40:25
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cardetailingsandiego.com/additional_services/restoration/paint_correction/
+  http://cardetailingsandiego.com/paint_correction/
 published: true
 business_press_hide_titlebar:
   - "0"
