@@ -6,7 +6,7 @@ post_date: 2017-04-22 06:17:57
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cardetailingsandiego.com/additional_services/windshield_repair/
+  http://cardetailingsandiego.com/windshield_repair/
 published: true
 business_press_hide_titlebar:
   - "0"
